@@ -1,0 +1,5 @@
+Problem: https://leetcode.com/problems/simplify-path/
+
+Explanation: https://www.youtube.com/watch?v=qYlHrAKJfyA
+
+
