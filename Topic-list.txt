@@ -1,0 +1,6 @@
+Date		Topic name
+------------------------------------------------------
+2022-02-04	Bit Manipulation
+2022-02-08	Dynamic Programming
+2022-02-08	Matrix Exponentiation
+
